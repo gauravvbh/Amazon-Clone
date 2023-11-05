@@ -565,8 +565,8 @@ main {
   }
 }
 .box3:focus-within {
-  border: 3px solid #f90;
-  border-radius: 9px;
+  border: 2px solid #f90;
+  border-radius: 7px;
 }
 
 .border {
